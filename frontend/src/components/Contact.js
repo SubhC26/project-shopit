@@ -93,7 +93,7 @@ const Contact = () => {
                   <ul class="text-center">
                     <li>Address: 168/170, Ave 01, Mirpur DOHS, Pakistan</li>
                     <li>Email: info.example@gmail.com</li>
-                    <li>Phone: +92 000 0000000</li>
+                    <li>Phone: +91 000 0000000</li>
                     <li>Web: www.yourwebsite.com</li>
                   </ul>
                 </div>
@@ -110,7 +110,7 @@ const Contact = () => {
                       Address: 150 lane Nagano Sitijet National Park, Pakistan
                     </li>
                     <li>Email: info.example@gmail.com</li>
-                    <li>Phone: +92 000 0000000</li>
+                    <li>Phone: +91 000 0000000</li>
                     <li>Web: www.yourwebsite.com</li>
                   </ul>
                 </div>
@@ -127,7 +127,7 @@ const Contact = () => {
                       Address: 150/58 Fujimi Navana lane Sitijet Nagano Pakistan
                     </li>
                     <li>Email: info.example@gmail.com</li>
-                    <li>Phone: +92 000 0000000</li>
+                    <li>Phone: +91 000 0000000</li>
                     <li>Web: www.yourwebsite.com</li>
                   </ul>
                 </div>
