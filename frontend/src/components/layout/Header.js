@@ -210,7 +210,7 @@ const Header = () => {
 								<div className="header-1-contact d-flex align-items-center">
 									<div className="contact-num">
 										<span>Hot Line Number</span>
-										<p>+92 318 1575228</p>
+										<p>+91 318 1575228</p>
 									</div>
 								</div>
 							</div>
